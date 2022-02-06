@@ -1,0 +1,4 @@
+hi this is dinesh 
+print("hello world")
+this is python file 
+this can be accessable to any where
